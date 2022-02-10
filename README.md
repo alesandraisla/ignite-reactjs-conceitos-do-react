@@ -15,9 +15,9 @@ Foi criado as funcionalidades para as três funções presentes nesse arquivo, q
 
 ## Tecnologias 💻
 
-HTML 
-SCSS
-REACTJS
+HTML |
+SCSS |
+REACTJS |
 TYPESCRIPT 
 
 ## Link para visualização 🔗 
@@ -27,6 +27,5 @@ TYPESCRIPT
 ## Layout Mobile e Desktop 
 
 <div align="center">
-        <video src="./public/challenge2.mp4">
-     <img src="./public/challenge2.mp4" align="center" margin-bottom="10px"> 
+     <img src="./public/layout.png" align="center" margin-bottom="10px"> 
 </div>
