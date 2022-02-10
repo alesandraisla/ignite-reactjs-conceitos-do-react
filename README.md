@@ -22,7 +22,7 @@ TYPESCRIPT
 
 ## Link para visualização 🔗 
 
-[Cliqui aqui - Countdown](https://alesandraisla.github.io/countdown-rocketseat/).
+[Cliqui aqui - To Do](https://alesandraisla.github.io/ignite-reactjs-conceitos-do-react/).
 
 ## Layout Mobile e Desktop 
 
