@@ -20,12 +20,10 @@ SCSS |
 REACTJS |
 TYPESCRIPT 
 
-## Link para visualização 🔗 
-
-[Cliqui aqui - To Do](https://alesandraisla.github.io/ignite-reactjs-conceitos-do-react/).
-
 ## Layout Mobile e Desktop 
 
 <div align="center">
      <img src="./public/layout.png" align="center" margin-bottom="10px"> 
+     <img src="./public/mobile.png" align="center" margin-bottom="10px"> 
+
 </div>
