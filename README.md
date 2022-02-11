@@ -17,12 +17,12 @@ Foi criado as funcionalidades para as três funções presentes nesse arquivo, q
 
 HTML |
 SCSS |
-REACTJS |
-TYPESCRIPT 
+ReactJS |
+TypeScript 
 
 ## Layout Mobile e Desktop 
 
 <div align="center">
      <img src="./public/mobile.png"  width="400px" height="500px" margin-bottom="10px"> 
-     <img src="./public/layout.png"  width="700px" height="500px" margin-bottom="40px"> 
+     <img src="./public/layout.png"  width="100%" height="500px" margin-bottom="40px"> 
 </div>
