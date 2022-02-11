@@ -23,6 +23,6 @@ TypeScript
 ## Layout Mobile e Desktop 
 
 <div align="center">
-     <img src="./public/mobile.png"  width="300px" height="500px" margin-bottom="10px"> 
+     <img src="./public/mobile.png"  width="300px" height="600px" margin-bottom="10px"> 
      <img src="./public/layout.png"  width="100%" height="500px" margin-bottom="40px"> 
 </div>
