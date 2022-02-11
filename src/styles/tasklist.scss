@@ -161,14 +161,65 @@ section.task-list {
   }
 }
 
+@media (max-width: 425px) {
+  section.task-list {
+    padding: 51px 60px;
+  }
+  section.task-list header h2 {
+    margin-bottom: 10px;
+    font-size: 1.90rem;
+  }
+  section.task-list header .input-group input {
+    width: 248px;
+  }
+}
+
+@media(max-width: 375px) {
+  section.task-list {
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 36px;
+  }
+}
+
+@media(max-width: 360px) {
+  section.task-list header h2 {
+    font-size: 1.8rem;
+  }
+}
+
 @media (max-width: 300px) {
   section.task-list {
     padding: 10px;
   }
   section.task-list header .input-group {
     flex-wrap: wrap;
-    flex-direction: row-reverse;
     justify-content:center;
   }
-
+  section.task-list header .input-group input {
+    width: 238px;
+  }
+  section.task-list main ul li div p {
+    font-size: 0.9rem;
+  }
+  section.task-list header h2 {
+    font-size: 1.7rem;
+  }
 }
+
+@media (max-width:248px) {
+  section.task-list header h2 {
+    font-size: 1.3rem;
+  }
+  section.task-list header .input-group input {
+    flex: 1;
+    padding: 9px 7px;
+  }
+  section.task-list header .input-group input {
+    width: 184px;
+  }
+}
+
+
+
