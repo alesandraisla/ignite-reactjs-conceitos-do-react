@@ -9,6 +9,7 @@ section.task-list {
   
   header {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
@@ -158,4 +159,16 @@ section.task-list {
       }
     } 
   }
+}
+
+@media (max-width: 300px) {
+  section.task-list {
+    padding: 10px;
+  }
+  section.task-list header .input-group {
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content:center;
+  }
+
 }
